@@ -3,3 +3,6 @@ Deep Learning with PyTorch
 
 ## Week 1
 Introduction to Pytorch  functions
+
+## Week 2
+Linear Regression
